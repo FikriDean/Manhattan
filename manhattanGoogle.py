@@ -1,3 +1,5 @@
+# Perpusnas - Museum Nasional
+
 # def manhattan_distance(x0, y0, x1, y1):
 #     # Menghitung jarak Manhattan
 #     distance = abs(x0 - x1) + abs(y0 - y1)
@@ -14,6 +16,8 @@
 # # Koordinat Museum Nasional Indonesia
 # x0, y0 = -6.176450, 106.822383
 
+
+# Bundaran HI - Perpusnas
 
 # distance = manhattan_distance(x0, y0, x1, y1)
 
@@ -40,6 +44,9 @@
 
 # print("Jarak Manhattan antara Bundaran HI dan Perpustakaan Nasional adalah", distance, "km")
 
+
+# Monas - Bundaran HI
+
 # def manhattan_distance(x0, y0, x1, y1):
 #     # Menghitung jarak Manhattan
 #     distance = abs(x0 - x1) + abs(y0 - y1)
@@ -59,6 +66,9 @@
 # distance = manhattan_distance(x0, y0, x1, y1)
 
 # print("Jarak Manhattan antara Monas dan Bundaran HI adalah", distance, "km")
+
+
+# Perpusnas - PT. Citra Inspekindo Mandiri
 
 def manhattan_distance(x0, y0, x1, y1):
     # Menghitung jarak Manhattan
